@@ -20,6 +20,8 @@ Work in progress as I am actively collecting these.
 - "Basics of the Mach-O file format" https://samhuri.net/posts/2010/01/basics-of-the-mach-o-file-format/
 - "Infecting Mach-O object format" https://reverse.put.as/wp-content/uploads/2011/06/mach-o_infection.ppt
 - "Under the iHood" https://www.defcon.org/images/defcon-16/dc16-presentations/defcon-16-hotchkies.pdf
+- "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
+- "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
 
 #### Infection techniques, viruses, obfuscation and encryption
 
@@ -38,3 +40,4 @@ Work in progress as I am actively collecting these.
 1. "MachOView is a visual Mach-O file browser" http://sourceforge.net/projects/machoview/
 - "Hopper is a reverse engineering tool for OS X and Linux" http://www.hopperapp.com/
 - "Reverse Engineering Hopper Disassembler v3.9.9" https://www.youtube.com/watch?v=pCITcLqgS9Q
+
