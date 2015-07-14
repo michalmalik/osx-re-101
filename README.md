@@ -31,7 +31,7 @@ Work in progress as I am actively collecting these.
 
 1. "Infecting Mach-O" http://reverse.put.as/wp-content/uploads/2013/05/Infecting_Mach-O_Files.pdf
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
-- ~~~"Multi-Platform Viruses Made Easy - A Case Study" http://vxer.org/lib/vjp00.html~~~ vxer.org is redirected to vxheaven.org which does not exist anymore (2015/07/13 18:36)
+- "Multi-Platform Viruses Made Easy - A Case Study" http://vxer.org/lib/vjp00.html
 
 #### Crackmes and challenges
 
