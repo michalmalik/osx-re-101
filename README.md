@@ -7,12 +7,14 @@ Work in progress as I am actively collecting these.
 
 1. http://reverse.put.as/
 - http://samdmarshall.com/re.html
+- https://github.com/bx/machO-tools
 
 #### Keep these handy
 1. "OSX Mach-O File Format Reference" http://samdmarshall.com/re/Mach-O_File_Format.pdf
 - "OSX ABI" http://samdmarshall.com/re/Mac_OS_X_ABI_Function_Calls.pdf
-- Mach-O structures http://www.opensource.apple.com/source/xnu/xnu-1456.1.26/EXTERNAL_HEADERS/mach-o/loader.h
+- Mach-O structures http://www.opensource.apple.com/source/xnu/xnu-2050.18.24/EXTERNAL_HEADERS/mach-o/loader.h
 - "OSX BSD system calls" http://dyjakan.sigsegv.pl/osx-bsd-syscalls/
+- http://www.opensource.apple.com/source/xnu/xnu-2050.18.24/bsd/kern/syscalls.master
 
 #### Basics
 
@@ -20,10 +22,12 @@ Work in progress as I am actively collecting these.
 - "Basics of the Mach-O file format" https://samhuri.net/posts/2010/01/basics-of-the-mach-o-file-format/
 - "Infecting Mach-O object format" https://reverse.put.as/wp-content/uploads/2011/06/mach-o_infection.ppt
 - "Under the iHood" https://www.defcon.org/images/defcon-16/dc16-presentations/defcon-16-hotchkies.pdf
+- "Dissection of minimal Intel 32-bits, 204 bytes, Mach-O "Hello World" executable file" http://seriot.ch/hello_macho.php
+- "Crafting a Tiny Mach-O Executable" http://osxbook.com/blog/2009/03/15/crafting-a-tiny-mach-o-executable/
 - "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
 - "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
 
-#### Infection techniques, viruses, obfuscation and encryption
+#### Anti-debugging, infection techniques, viruses, obfuscation and encryption
 
 1. "Infecting Mach-O" http://reverse.put.as/wp-content/uploads/2013/05/Infecting_Mach-O_Files.pdf
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
