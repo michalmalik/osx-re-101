@@ -33,15 +33,25 @@ Work in progress as I am actively collecting these.
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
 - ~~~"Multi-Platform Viruses Made Easy - A Case Study" http://vxer.org/lib/vjp00.html~~~ vxer.org is redirected to vxheaven.org which does not exist anymore (2015/07/13 18:36)
 
+#### Crackmes and challenges
+
+1. https://reverse.put.as/crackmes/
+
+#### Analyzes & "hands-on"
+
+1. "Cracking Tutorial #1 - "Sandwich" CrackMe" http://reverse.put.as/wp-content/uploads/2012/06/Sandwich_crackme_tut_qwertyoruiop.txt
+- "Solving crackmes with LDPRELOAD" http://radare.today/solving-crackmes-with-ldpreload/
+- "Analyzing Binaries with Hopper’s Decompiler" http://abad1dea.tumblr.com/post/23487860422/analyzing-binaries-with-hoppers-decompiler
+- "Reverse Engineering Hopper Disassembler v3.9.9" https://www.youtube.com/watch?v=pCITcLqgS9Q
+
+#### Other
+
+1. "MachOView is a visual Mach-O file browser" http://sourceforge.net/projects/machoview/
+- "0xED is a native OS X hex editor" http://www.suavetech.com/0xed/
+- "Hopper is a reverse engineering tool for OS X and Linux" http://www.hopperapp.com/
+
 #### Books
 
 1. "The Mac Hacker's Handbook" by Charlie Miller, Dino Dai Zovi
 - "Mac OS X and iOS Internals: To the Apple's Core" by Jonathan Levin
 - "Mac OS X Internals: A Systems Approach" by Amit Singh
-
-#### Other
-
-1. "MachOView is a visual Mach-O file browser" http://sourceforge.net/projects/machoview/
-- "Hopper is a reverse engineering tool for OS X and Linux" http://www.hopperapp.com/
-- "Reverse Engineering Hopper Disassembler v3.9.9" https://www.youtube.com/watch?v=pCITcLqgS9Q
-
