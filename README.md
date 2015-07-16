@@ -37,6 +37,7 @@ Work in progress as I am actively collecting these.
 #### Crackmes and challenges
 
 1. https://reverse.put.as/crackmes/
+- "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
 
 #### Analyzes & "hands-on"
 
