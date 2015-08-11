@@ -33,6 +33,7 @@ Work in progress as I am actively collecting these.
 1. "Infecting Mach-O" http://reverse.put.as/wp-content/uploads/2013/05/Infecting_Mach-O_Files.pdf
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
 - "Multi-Platform Viruses Made Easy - A Case Study" http://vxer.org/lib/vjp00.html
+- "Malware persistence techniques on Mac OS X" https://www.virusbtn.com/pdf/conference/vb2014/VB2014-Wardle.pdf
 
 #### Crackmes and challenges
 
@@ -51,6 +52,7 @@ Work in progress as I am actively collecting these.
 1. "MachOView is a visual Mach-O file browser" http://sourceforge.net/projects/machoview/
 - "0xED is a native OS X hex editor" http://www.suavetech.com/0xed/
 - "Hopper is a reverse engineering tool for OS X and Linux" http://www.hopperapp.com/
+- "Artefacts and tricks for Mac OS X" http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1
 
 #### Books
 
