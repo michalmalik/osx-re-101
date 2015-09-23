@@ -1,4 +1,4 @@
-osx-re-101
+osx & ios re 101
 ==========
 
 Work in progress as I am actively collecting these.
@@ -46,6 +46,7 @@ Work in progress as I am actively collecting these.
 - "Solving crackmes with LDPRELOAD" http://radare.today/solving-crackmes-with-ldpreload/
 - "Analyzing Binaries with Hopper’s Decompiler" http://abad1dea.tumblr.com/post/23487860422/analyzing-binaries-with-hoppers-decompiler
 - "Reverse Engineering Hopper Disassembler v3.9.9" https://www.youtube.com/watch?v=pCITcLqgS9Q
+- "Reverse-Engineering iOS Apps: Hacking on Lyft" https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/
 
 #### Other
 
@@ -53,9 +54,11 @@ Work in progress as I am actively collecting these.
 - "0xED is a native OS X hex editor" http://www.suavetech.com/0xed/
 - "Hopper is a reverse engineering tool for OS X and Linux" http://www.hopperapp.com/
 - "Artefacts and tricks for Mac OS X" http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1
+- "Collection of forensics artifacs location for Mac OS X and iOS" https://github.com/pstirparo/mac4n6
 
 #### Books
 
 1. "The Mac Hacker's Handbook" by Charlie Miller, Dino Dai Zovi
 - "Mac OS X and iOS Internals: To the Apple's Core" by Jonathan Levin
 - "Mac OS X Internals: A Systems Approach" by Amit Singh
+- "iOS App Reverse Engineering" https://github.com/iosre/iOSAppReverseEngineering
