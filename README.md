@@ -20,6 +20,7 @@ Work in progress as I am actively collecting these.
 
 1. "Universal Binary: The Mach-O file format" http://cocoaintheshell.com/2009/07/universal-binary-mach-o-format/
 - "Basics of the Mach-O file format" https://samhuri.net/posts/2010/01/basics-of-the-mach-o-file-format/
+- "How OS X Executes Applications" http://0xfe.blogspot.de/2006/03/how-os-x-executes-applications.html
 - "Infecting Mach-O object format" https://reverse.put.as/wp-content/uploads/2011/06/mach-o_infection.ppt
 - "Under the iHood" https://www.defcon.org/images/defcon-16/dc16-presentations/defcon-16-hotchkies.pdf
 - "Dissection of minimal Intel 32-bits, 204 bytes, Mach-O "Hello World" executable file" http://seriot.ch/hello_macho.php
