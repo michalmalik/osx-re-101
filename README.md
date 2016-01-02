@@ -56,6 +56,7 @@ Work in progress as I am actively collecting these.
 - "Hopper is a reverse engineering tool for OS X and Linux" http://www.hopperapp.com/
 - "Artefacts and tricks for Mac OS X" http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1
 - "Collection of forensics artifacs location for Mac OS X and iOS" https://github.com/pstirparo/mac4n6
+- "A curated list of shell commands and tools specific to OS X" https://github.com/herrbischoff/awesome-osx-command-line
 
 #### Books
 
