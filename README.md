@@ -57,6 +57,8 @@ Work in progress as I am actively collecting these.
 - "Artefacts and tricks for Mac OS X" http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1
 - "Collection of forensics artifacs location for Mac OS X and iOS" https://github.com/pstirparo/mac4n6
 - "A curated list of shell commands and tools specific to OS X" https://github.com/herrbischoff/awesome-osx-command-line
+- "OS X Security and Privacy Guide" https://github.com/drduh/OS-X-Security-and-Privacy-Guide
+- "A launchd tutorial" http://launchd.info/
 
 #### Books
 
@@ -64,3 +66,4 @@ Work in progress as I am actively collecting these.
 - "Mac OS X and iOS Internals: To the Apple's Core" by Jonathan Levin
 - "Mac OS X Internals: A Systems Approach" by Amit Singh
 - "iOS App Reverse Engineering" https://github.com/iosre/iOSAppReverseEngineering
+- "iOS Hacker's Handbook" by Charlie Miller, Dion Blazakis, Dino Dai Zovi, Stefan Esser, Vincenzo Iozzo, Ralf-Philip Weinmann 
