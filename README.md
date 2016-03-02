@@ -68,3 +68,4 @@ Work in progress as I am actively collecting these.
 - "Mac OS X Internals: A Systems Approach" by Amit Singh
 - "iOS App Reverse Engineering" https://github.com/iosre/iOSAppReverseEngineering
 - "iOS Hacker's Handbook" by Charlie Miller, Dion Blazakis, Dino Dai Zovi, Stefan Esser, Vincenzo Iozzo, Ralf-Philip Weinmann 
+- "Hacking and Securing iOS Applications" by Jonathan Zdziarski
