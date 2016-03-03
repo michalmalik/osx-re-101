@@ -6,7 +6,8 @@ Work in progress as I am actively collecting these.
 #### Must read
 
 1. http://reverse.put.as/
-- 
+- http://researchcenter.paloaltonetworks.com/tag/mac-os-x/
+- https://www.synack.com/r-d-projects/os-x-security-research/
 - http://samdmarshall.com/re.html
 - https://github.com/bx/machO-tools
 
@@ -42,7 +43,7 @@ Work in progress as I am actively collecting these.
 1. https://reverse.put.as/crackmes/
 - "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
 
-#### Analyzes & "hands-on"
+#### Analyzes, research & "hands-on"
 
 1. "Cracking Tutorial #1 - "Sandwich" CrackMe" http://reverse.put.as/wp-content/uploads/2012/06/Sandwich_crackme_tut_qwertyoruiop.txt
 - "Solving crackmes with LDPRELOAD" http://radare.today/solving-crackmes-with-ldpreload/
