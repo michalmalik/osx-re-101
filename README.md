@@ -6,6 +6,7 @@ Work in progress as I am actively collecting these.
 #### Must read
 
 1. http://reverse.put.as/
+- 
 - http://samdmarshall.com/re.html
 - https://github.com/bx/machO-tools
 
@@ -49,10 +50,14 @@ Work in progress as I am actively collecting these.
 - "Reverse Engineering Hopper Disassembler v3.9.9" https://www.youtube.com/watch?v=pCITcLqgS9Q
 - "Reverse-Engineering iOS Apps: Hacking on Lyft" https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/
 - "Jailbreak iOS 8.1.2 and Analyze Related Exploits" http://en.wooyun.io/2016/01/18/38.html
+- "The Italian morons are back! What are they up to this time?" https://reverse.put.as/2016/02/29/the-italian-morons-are-back-what-are-they-up-to-this-time/
 
 #### Other
 
-1. "MachOView is a visual Mach-O file browser" http://sourceforge.net/projects/machoview/
+1. "Attacking The XNU Kernel in El Capitan" https://www.blackhat.com/docs/eu-15/materials/eu-15-Todesco-Attacking-The-XNU-Kernal-In-El-Capitain.pdf
+- "Let's Play: Practical OS X Malware Detection & Analysis" https://www.synack.com/wp-content/uploads/2016/03/RSA_OSX_Malware.pdf
+- "Methods of malware persistence on Mac OS X" https://www.virusbulletin.com/uploads/pdf/conference/vb2014/VB2014-Wardle.pdf
+- "MachOView is a visual Mach-O file browser" http://sourceforge.net/projects/machoview/
 - "0xED is a native OS X hex editor" http://www.suavetech.com/0xed/
 - "Hopper is a reverse engineering tool for OS X and Linux" http://www.hopperapp.com/
 - "Artefacts and tricks for Mac OS X" http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1
@@ -60,6 +65,7 @@ Work in progress as I am actively collecting these.
 - "A curated list of shell commands and tools specific to OS X" https://github.com/herrbischoff/awesome-osx-command-line
 - "OS X Security and Privacy Guide" https://github.com/drduh/OS-X-Security-and-Privacy-Guide
 - "A launchd tutorial" http://launchd.info/
+- https://objective-see.com/index.html
 
 #### Books
 
