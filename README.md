@@ -27,6 +27,7 @@ Work in progress as I am actively collecting these.
 - "Under the iHood" https://www.defcon.org/images/defcon-16/dc16-presentations/defcon-16-hotchkies.pdf
 - "Dissection of minimal Intel 32-bits, 204 bytes, Mach-O "Hello World" executable file" http://seriot.ch/hello_macho.php
 - "Crafting a Tiny Mach-O Executable" http://osxbook.com/blog/2009/03/15/crafting-a-tiny-mach-o-executable/
+- "Parsing Mach-O files" http://lowlevelbits.org/parse-mach-o-files/
 - "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
 - "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
 - "NASM Hello World for x86 and x86_64 Intel Mac OS X" https://gist.github.com/FiloSottile/7125822
