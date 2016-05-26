@@ -53,6 +53,7 @@ Work in progress as I am actively collecting these.
 - "Reverse-Engineering iOS Apps: Hacking on Lyft" https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/
 - "Jailbreak iOS 8.1.2 and Analyze Related Exploits" http://en.wooyun.io/2016/01/18/38.html
 - "The Italian morons are back! What are they up to this time?" https://reverse.put.as/2016/02/29/the-italian-morons-are-back-what-are-they-up-to-this-time/
+- "Revisiting Mac OS X Kernel Rootkits" http://phrack.org/issues/69/7.html#article
 
 #### Other
 
