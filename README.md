@@ -58,6 +58,8 @@ Work in progress as I am actively collecting these.
 #### Other
 
 1. "Attacking The XNU Kernel in El Capitan" https://www.blackhat.com/docs/eu-15/materials/eu-15-Todesco-Attacking-The-XNU-Kernal-In-El-Capitain.pdf
+- "Shooting the OSX El Capitan Kernel Like a Sniper" https://speakerdeck.com/flankerhqd/shooting-the-osx-el-capitan-kernel-like-a-sniper
+- "The Python bites your apple - fuzzing and exploiting OSX Kernel bugs" https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs
 - "Let's Play: Practical OS X Malware Detection & Analysis" https://www.synack.com/wp-content/uploads/2016/03/RSA_OSX_Malware.pdf
 - "Methods of malware persistence on Mac OS X" https://www.virusbulletin.com/uploads/pdf/conference/vb2014/VB2014-Wardle.pdf
 - "MachOView is a visual Mach-O file browser" http://sourceforge.net/projects/machoview/
@@ -69,6 +71,7 @@ Work in progress as I am actively collecting these.
 - "OS X Security and Privacy Guide" https://github.com/drduh/OS-X-Security-and-Privacy-Guide
 - "A launchd tutorial" http://launchd.info/
 - https://objective-see.com/index.html
+- "OS X malloc introspection tool" https://github.com/blankwall/MacHeap
 
 #### Books
 
