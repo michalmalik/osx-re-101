@@ -52,16 +52,17 @@ Work in progress as I am actively collecting these.
 - "Reverse Engineering Hopper Disassembler v3.9.9" https://www.youtube.com/watch?v=pCITcLqgS9Q
 - "Reverse-Engineering iOS Apps: Hacking on Lyft" https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/
 - "Jailbreak iOS 8.1.2 and Analyze Related Exploits" http://en.wooyun.io/2016/01/18/38.html
+-  "Attacking The XNU Kernel in El Capitan" https://www.blackhat.com/docs/eu-15/materials/eu-15-Todesco-Attacking-The-XNU-Kernal-In-El-Capitain.pdf
+- "Shooting the OSX El Capitan Kernel Like a Sniper" https://speakerdeck.com/flankerhqd/shooting-the-osx-el-capitan-kernel-like-a-sniper
+- "Let's Play: Practical OS X Malware Detection & Analysis" https://www.synack.com/wp-content/uploads/2016/03/RSA_OSX_Malware.pdf
+- "Methods of malware persistence on Mac OS X" https://www.virusbulletin.com/uploads/pdf/conference/vb2014/VB2014-Wardle.pdf
 - "The Italian morons are back! What are they up to this time?" https://reverse.put.as/2016/02/29/the-italian-morons-are-back-what-are-they-up-to-this-time/
 - "Revisiting Mac OS X Kernel Rootkits" http://phrack.org/issues/69/7.html#article
+- "The Journey of a complete OSX privilege escalation with a single vulnerability - Part 1" http://keenlab.tencent.com/en/2016/07/29/The-Journey-of-a-complete-OSX-privilege-escalation-with-a-single-vulnerability-Part-1/
 
 #### Other
 
-1. "Attacking The XNU Kernel in El Capitan" https://www.blackhat.com/docs/eu-15/materials/eu-15-Todesco-Attacking-The-XNU-Kernal-In-El-Capitain.pdf
-- "Shooting the OSX El Capitan Kernel Like a Sniper" https://speakerdeck.com/flankerhqd/shooting-the-osx-el-capitan-kernel-like-a-sniper
-- "The Python bites your apple - fuzzing and exploiting OSX Kernel bugs" https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs
-- "Let's Play: Practical OS X Malware Detection & Analysis" https://www.synack.com/wp-content/uploads/2016/03/RSA_OSX_Malware.pdf
-- "Methods of malware persistence on Mac OS X" https://www.virusbulletin.com/uploads/pdf/conference/vb2014/VB2014-Wardle.pdf
+1. "The Python bites your apple - fuzzing and exploiting OSX Kernel bugs" https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs
 - "MachOView is a visual Mach-O file browser" http://sourceforge.net/projects/machoview/
 - "0xED is a native OS X hex editor" http://www.suavetech.com/0xed/
 - "Hopper is a reverse engineering tool for OS X and Linux" http://www.hopperapp.com/
