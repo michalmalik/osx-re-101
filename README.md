@@ -59,6 +59,7 @@ Work in progress as I am actively collecting these.
 - "The Italian morons are back! What are they up to this time?" https://reverse.put.as/2016/02/29/the-italian-morons-are-back-what-are-they-up-to-this-time/
 - "Revisiting Mac OS X Kernel Rootkits" http://phrack.org/issues/69/7.html#article
 - "The Journey of a complete OSX privilege escalation with a single vulnerability - Part 1" http://keenlab.tencent.com/en/2016/07/29/The-Journey-of-a-complete-OSX-privilege-escalation-with-a-single-vulnerability-Part-1/
+- "iOS 10 Kernel Heap Revisted" http://gsec.hitb.org/materials/sg2016/D2%20-%20Stefan%20Esser%20-%20iOS%2010%20Kernel%20Heap%20Revisited.pdf
 - "Who needs decrypted kernels anyways?" http://blog.offcellresearch.com/security/apple/ios/kernel/2016/08/23/who-needs-decrypted-kernels-anyways.html
 - "Mac OS X Privilege Escalation via Use-After-Free: CVE-2016-1828" https://bazad.github.io/2016/05/mac-os-x-use-after-free/
 - "PEGASUS iOS Kernel Vulnerability Explained" http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html
