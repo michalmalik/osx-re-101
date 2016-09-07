@@ -77,6 +77,7 @@ Work in progress as I am actively collecting these.
 - "A launchd tutorial" http://launchd.info/
 - https://objective-see.com/index.html
 - "OS X malloc introspection tool" https://github.com/blankwall/MacHeap
+- "A Peek Under the Hood of iOS Malware" http://webdiis.unizar.es/~ricardo/files/papers/GR-WMA-16.pdf
 
 #### Books
 
