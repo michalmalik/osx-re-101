@@ -10,6 +10,7 @@ Work in progress as I am actively collecting these.
 - https://www.synack.com/r-d-projects/os-x-security-research/
 - http://samdmarshall.com/re.html
 - https://github.com/bx/machO-tools
+- https://github.com/kpwn/iOSRE
 
 #### Keep these handy
 1. "OSX Mach-O File Format Reference" http://samdmarshall.com/re/Mach-O_File_Format.pdf
