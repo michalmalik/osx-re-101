@@ -80,6 +80,7 @@ Work in progress as I am actively collecting these.
 - "OS X malloc introspection tool" https://github.com/blankwall/MacHeap
 - "A Peek Under the Hood of iOS Malware" http://webdiis.unizar.es/~ricardo/files/papers/GR-WMA-16.pdf
 - "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
+- "Macs get sick too" http://www.irongeek.com/i.php?page=videos/derbycon6/104-macs-get-sick-too-tyler-halfpop-jacob-soo
 
 #### Books
 
