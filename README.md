@@ -81,6 +81,7 @@ Work in progress as I am actively collecting these.
 - "A Peek Under the Hood of iOS Malware" http://webdiis.unizar.es/~ricardo/files/papers/GR-WMA-16.pdf
 - "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
 - "Macs get sick too" http://www.irongeek.com/i.php?page=videos/derbycon6/104-macs-get-sick-too-tyler-halfpop-jacob-soo
+- "MacOS Hardening Guide" http://newosxbook.com/files/moxii3/AppendixA.pdf by Jonathan Levin
 
 #### Books
 
