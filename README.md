@@ -77,6 +77,7 @@ Work in progress as I am actively collecting these.
 - "OS X Security and Privacy Guide" https://github.com/drduh/OS-X-Security-and-Privacy-Guide
 - "A launchd tutorial" http://launchd.info/
 - https://objective-see.com/index.html
+- https://www.littleflocker.com/
 - "OS X malloc introspection tool" https://github.com/blankwall/MacHeap
 - "A Peek Under the Hood of iOS Malware" http://webdiis.unizar.es/~ricardo/files/papers/GR-WMA-16.pdf
 - "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
