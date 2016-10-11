@@ -64,6 +64,8 @@ Work in progress as I am actively collecting these.
 - "Who needs decrypted kernels anyways?" http://blog.offcellresearch.com/security/apple/ios/kernel/2016/08/23/who-needs-decrypted-kernels-anyways.html
 - "Mac OS X Privilege Escalation via Use-After-Free: CVE-2016-1828" https://bazad.github.io/2016/05/mac-os-x-use-after-free/
 - "PEGASUS iOS Kernel Vulnerability Explained" http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html
+- "Behind the Scenes with iOS Security" https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf
+- "The Apple Sandbox: Deeper Into The Quagmire" https://www.youtube.com/watch?v=mG715HcDgO8
 
 #### Other
 
@@ -83,8 +85,6 @@ Work in progress as I am actively collecting these.
 - "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
 - "Macs get sick too" http://www.irongeek.com/i.php?page=videos/derbycon6/104-macs-get-sick-too-tyler-halfpop-jacob-soo
 - "MacOS Hardening Guide" http://newosxbook.com/files/moxii3/AppendixA.pdf by Jonathan Levin
-- "Behind the Scenes with iOS Security" https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf
-- "The Apple Sandbox: Deeper Into The Quagmire" https://www.youtube.com/watch?v=mG715HcDgO8
 
 #### Books
 
