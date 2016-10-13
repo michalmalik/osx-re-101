@@ -70,16 +70,12 @@ Work in progress as I am actively collecting these.
 #### Other
 
 1. "The Python bites your apple - fuzzing and exploiting OSX Kernel bugs" https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs
-- "MachOView is a visual Mach-O file browser" http://sourceforge.net/projects/machoview/
-- "0xED is a native OS X hex editor" http://www.suavetech.com/0xed/
-- "Hopper is a reverse engineering tool for OS X and Linux" http://www.hopperapp.com/
 - "Artefacts and tricks for Mac OS X" http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1
 - "Collection of forensics artifacs location for Mac OS X and iOS" https://github.com/pstirparo/mac4n6
 - "A curated list of shell commands and tools specific to OS X" https://github.com/herrbischoff/awesome-osx-command-line
 - "OS X Security and Privacy Guide" https://github.com/drduh/OS-X-Security-and-Privacy-Guide
 - "A launchd tutorial" http://launchd.info/
 - https://objective-see.com/index.html
-- https://www.littleflocker.com/
 - "OS X malloc introspection tool" https://github.com/blankwall/MacHeap
 - "A Peek Under the Hood of iOS Malware" http://webdiis.unizar.es/~ricardo/files/papers/GR-WMA-16.pdf
 - "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
