@@ -66,6 +66,7 @@ Work in progress as I am actively collecting these.
 - "PEGASUS iOS Kernel Vulnerability Explained" http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html
 - "Behind the Scenes with iOS Security" https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf
 - "The Apple Sandbox: Deeper Into The Quagmire" https://www.youtube.com/watch?v=mG715HcDgO8
+- “A deep-dive into the many flavors of IPC available on OS X.” https://vimeo.com/127859750
 
 #### Other
 
