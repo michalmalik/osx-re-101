@@ -67,6 +67,7 @@ Work in progress as I am actively collecting these.
 - "Behind the Scenes with iOS Security" https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf
 - "The Apple Sandbox: Deeper Into The Quagmire" https://www.youtube.com/watch?v=mG715HcDgO8
 - “A deep-dive into the many flavors of IPC available on OS X.” https://vimeo.com/127859750
+- "Analysis of iOS 9.3.3 Jailbreak & Security Enhancements of iOS 10" http://powerofcommunity.net/poc2016/pangu.pdf
 
 #### Other
 
@@ -83,6 +84,8 @@ Work in progress as I am actively collecting these.
 - "Macs get sick too" http://www.irongeek.com/i.php?page=videos/derbycon6/104-macs-get-sick-too-tyler-halfpop-jacob-soo
 - "MacOS Hardening Guide" http://newosxbook.com/files/moxii3/AppendixA.pdf by Jonathan Levin
 - "Checkout4Mac" http://sud0man.blogspot.sk/2016/10/new-version-of-checkout4mac-02.html
+- "OSX kernel fuzzer" https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX
+- "iOS instrumentation without jailbreak" https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/
 
 #### Books
 
