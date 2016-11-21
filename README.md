@@ -74,6 +74,7 @@ Work in progress as I am actively collecting these.
 1. "The Python bites your apple - fuzzing and exploiting OSX Kernel bugs" https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs
 - "Artefacts and tricks for Mac OS X" http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1
 - "Collection of forensics artifacs location for Mac OS X and iOS" https://github.com/pstirparo/mac4n6
+- "New macOS Sierra (10.12) Forensic Artifacts – Introducing Unified Logging" https://www.mac4n6.com/blog/2016/11/13/new-macos-sierra-1012-forensic-artifacts-introducing-unified-logging
 - "A curated list of shell commands and tools specific to OS X" https://github.com/herrbischoff/awesome-osx-command-line
 - "OS X Security and Privacy Guide" https://github.com/drduh/OS-X-Security-and-Privacy-Guide
 - "A launchd tutorial" http://launchd.info/
