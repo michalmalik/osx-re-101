@@ -39,6 +39,7 @@ Work in progress as I am actively collecting these.
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
 - "Multi-Platform Viruses Made Easy - A Case Study" http://vxer.org/lib/vjp00.html
 - "Malware persistence techniques on Mac OS X" https://www.virusbtn.com/pdf/conference/vb2014/VB2014-Wardle.pdf
+- "Running executables on macOS from memory" https://blog.cylance.com/running-executables-on-macos-from-memory
 
 #### Crackmes and challenges
 
@@ -68,6 +69,7 @@ Work in progress as I am actively collecting these.
 - "The Apple Sandbox: Deeper Into The Quagmire" https://www.youtube.com/watch?v=mG715HcDgO8
 - “A deep-dive into the many flavors of IPC available on OS X.” https://vimeo.com/127859750
 - "Analysis of iOS 9.3.3 Jailbreak & Security Enhancements of iOS 10" http://powerofcommunity.net/poc2016/pangu.pdf
+- "Crafting macOS Rootkits" https://www.zdziarski.com/blog/wp-content/uploads/2017/02/Crafting-macOS-Root-Kits.pdf
 
 #### Other
 
