@@ -35,7 +35,7 @@ Work in progress as I am actively collecting these.
 
 #### Anti-debugging, infection techniques, viruses, obfuscation and encryption
 
-1. "Infecting Mach-O" http://reverse.put.as/wp-content/uploads/2013/05/Infecting_Mach-O_Files.pdf
+1. "Infecting Mach-O" http://nicolascormier.com/documentation/security/Infecting_Mach-O_Files.pdf
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
 - "Multi-Platform Viruses Made Easy - A Case Study" http://vxer.org/lib/vjp00.html
 - "Malware persistence techniques on Mac OS X" https://www.virusbtn.com/pdf/conference/vb2014/VB2014-Wardle.pdf
