@@ -5,7 +5,7 @@ Work in progress as I am actively collecting these.
 
 #### Must read
 
-1. http://reverse.put.as/
+- http://reverse.put.as/
 - http://researchcenter.paloaltonetworks.com/tag/mac-os-x/
 - https://www.synack.com/r-d-projects/os-x-security-research/
 - http://samdmarshall.com/re.html
@@ -13,7 +13,7 @@ Work in progress as I am actively collecting these.
 - https://github.com/kpwn/iOSRE
 
 #### Keep these handy
-1. "OSX Mach-O File Format Reference" http://samdmarshall.com/re/Mach-O_File_Format.pdf
+- "OSX Mach-O File Format Reference" http://samdmarshall.com/re/Mach-O_File_Format.pdf
 - "OSX ABI" http://samdmarshall.com/re/Mac_OS_X_ABI_Function_Calls.pdf
 - Mach-O structures http://www.opensource.apple.com/source/xnu/xnu-2050.18.24/EXTERNAL_HEADERS/mach-o/loader.h
 - "OSX BSD system calls" http://dyjakan.sigsegv.pl/osx-bsd-syscalls/
@@ -21,7 +21,7 @@ Work in progress as I am actively collecting these.
 
 #### Basics
 
-1. "Universal Binary: The Mach-O file format" http://cocoaintheshell.com/2009/07/universal-binary-mach-o-format/
+- "Universal Binary: The Mach-O file format" http://cocoaintheshell.com/2009/07/universal-binary-mach-o-format/
 - "Basics of the Mach-O file format" https://samhuri.net/posts/2010/01/basics-of-the-mach-o-file-format/
 - "How OS X Executes Applications" http://0xfe.blogspot.de/2006/03/how-os-x-executes-applications.html
 - "Infecting Mach-O object format" https://reverse.put.as/wp-content/uploads/2011/06/mach-o_infection.ppt
@@ -35,7 +35,7 @@ Work in progress as I am actively collecting these.
 
 #### Anti-debugging, infection techniques, viruses, obfuscation and encryption
 
-1. "Infecting Mach-O" http://nicolascormier.com/documentation/security/Infecting_Mach-O_Files.pdf
+- "Infecting Mach-O" http://nicolascormier.com/documentation/security/Infecting_Mach-O_Files.pdf
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
 - "Multi-Platform Viruses Made Easy - A Case Study" http://vxer.org/lib/vjp00.html
 - "Malware persistence techniques on Mac OS X" https://www.virusbtn.com/pdf/conference/vb2014/VB2014-Wardle.pdf
@@ -43,12 +43,12 @@ Work in progress as I am actively collecting these.
 
 #### Crackmes and challenges
 
-1. https://reverse.put.as/crackmes/
+- https://reverse.put.as/crackmes/
 - "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
 
 #### Analyzes, research & "hands-on"
 
-1. "Cracking Tutorial #1 - "Sandwich" CrackMe" http://reverse.put.as/wp-content/uploads/2012/06/Sandwich_crackme_tut_qwertyoruiop.txt
+- "Cracking Tutorial #1 - "Sandwich" CrackMe" http://reverse.put.as/wp-content/uploads/2012/06/Sandwich_crackme_tut_qwertyoruiop.txt
 - "Solving crackmes with LDPRELOAD" http://radare.today/solving-crackmes-with-ldpreload/
 - "Analyzing Binaries with Hopper’s Decompiler" http://abad1dea.tumblr.com/post/23487860422/analyzing-binaries-with-hoppers-decompiler
 - "Reverse Engineering Hopper Disassembler v3.9.9" https://www.youtube.com/watch?v=pCITcLqgS9Q
@@ -70,10 +70,11 @@ Work in progress as I am actively collecting these.
 - “A deep-dive into the many flavors of IPC available on OS X.” https://vimeo.com/127859750
 - "Analysis of iOS 9.3.3 Jailbreak & Security Enhancements of iOS 10" http://powerofcommunity.net/poc2016/pangu.pdf
 - "Crafting macOS Rootkits" https://www.zdziarski.com/blog/wp-content/uploads/2017/02/Crafting-macOS-Root-Kits.pdf
+- "Fried Apples: Jailbreak DIY" https://speakerdeck.com/mbazaliy/fried-apples-jailbreak-diy
 
 #### Other
 
-1. "The Python bites your apple - fuzzing and exploiting OSX Kernel bugs" https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs
+- "The Python bites your apple - fuzzing and exploiting OSX Kernel bugs" https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs
 - "Artefacts and tricks for Mac OS X" http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1
 - "Collection of forensics artifacs location for Mac OS X and iOS" https://github.com/pstirparo/mac4n6
 - "New macOS Sierra (10.12) Forensic Artifacts – Introducing Unified Logging" https://www.mac4n6.com/blog/2016/11/13/new-macos-sierra-1012-forensic-artifacts-introducing-unified-logging
@@ -92,7 +93,7 @@ Work in progress as I am actively collecting these.
 
 #### Books
 
-1. "The Mac Hacker's Handbook" by Charlie Miller, Dino Dai Zovi
+- "The Mac Hacker's Handbook" by Charlie Miller, Dino Dai Zovi
 - "Mac OS X and iOS Internals: To the Apple's Core" by Jonathan Levin
 - "Mac OS X Internals: A Systems Approach" by Amit Singh
 - "iOS App Reverse Engineering" https://github.com/iosre/iOSAppReverseEngineering
