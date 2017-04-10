@@ -90,6 +90,7 @@ Work in progress as I am actively collecting these.
 - "Checkout4Mac" http://sud0man.blogspot.sk/2016/10/new-version-of-checkout4mac-02.html
 - "OSX kernel fuzzer" https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX
 - "iOS instrumentation without jailbreak" https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/
+- "Remote Kext Debugging" https://rednaga.io/2017/04/09/remote_kext_debugging/
 
 #### Books
 
