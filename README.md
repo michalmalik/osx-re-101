@@ -53,7 +53,7 @@ Work in progress as I am actively collecting these.
 - "Analyzing Binaries with Hopper’s Decompiler" http://abad1dea.tumblr.com/post/23487860422/analyzing-binaries-with-hoppers-decompiler
 - "Reverse Engineering Hopper Disassembler v3.9.9" https://www.youtube.com/watch?v=pCITcLqgS9Q
 - "Reverse-Engineering iOS Apps: Hacking on Lyft" https://realm.io/news/conrad-kramer-reverse-engineering-ios-apps-lyft/
-- "Jailbreak iOS 8.1.2 and Analyze Related Exploits" http://en.wooyun.io/2016/01/18/38.html
+- "Jailbreak iOS 8.1.2 and Analyze Related Exploits" http://proteaswang.blogspot.com/2017/04/jailbreak-ios-812-and-analyze-related.html
 -  "Attacking The XNU Kernel in El Capitan" https://www.blackhat.com/docs/eu-15/materials/eu-15-Todesco-Attacking-The-XNU-Kernal-In-El-Capitain.pdf
 - "Shooting the OSX El Capitan Kernel Like a Sniper" https://speakerdeck.com/flankerhqd/shooting-the-osx-el-capitan-kernel-like-a-sniper
 - "Let's Play: Practical OS X Malware Detection & Analysis" https://www.synack.com/wp-content/uploads/2016/03/RSA_OSX_Malware.pdf
