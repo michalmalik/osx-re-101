@@ -72,6 +72,9 @@ Work in progress as I am actively collecting these.
 - "Analysis of iOS 9.3.3 Jailbreak & Security Enhancements of iOS 10" http://powerofcommunity.net/poc2016/pangu.pdf
 - "Crafting macOS Rootkits" https://www.zdziarski.com/blog/wp-content/uploads/2017/02/Crafting-macOS-Root-Kits.pdf
 - "Fried Apples: Jailbreak DIY" https://speakerdeck.com/mbazaliy/fried-apples-jailbreak-diy
+- "Remote Kext Debugging" https://rednaga.io/2017/04/09/remote_kext_debugging/
+- "Introduction to macOS Kernel Debugging" http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
+- "Reversing a macOS Kernel Extension" (DSMOS) http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
 
 #### Other
 
@@ -91,7 +94,7 @@ Work in progress as I am actively collecting these.
 - "Checkout4Mac" http://sud0man.blogspot.sk/2016/10/new-version-of-checkout4mac-02.html
 - "OSX kernel fuzzer" https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX
 - "iOS instrumentation without jailbreak" https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/
-- "Remote Kext Debugging" https://rednaga.io/2017/04/09/remote_kext_debugging/
+
 
 #### Books
 
