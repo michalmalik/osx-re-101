@@ -32,6 +32,7 @@ Work in progress as I am actively collecting these.
 - "ELF vs. Mach-O" http://timetobleed.com/dynamic-linking-elf-vs-mach-o/
 - "ELF vs. Mach-O 2" http://timetobleed.com/dynamic-symbol-table-duel-elf-vs-mach-o-round-2/
 - "NASM Hello World for x86 and x86_64 Intel Mac OS X" https://gist.github.com/FiloSottile/7125822
+- "Reverse Engineering the OS: A Practical Guide" https://www.youtube.com/watch?v=uQWH55yIgYU
 
 #### Anti-debugging, infection techniques, viruses, obfuscation and encryption
 
