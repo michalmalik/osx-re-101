@@ -99,7 +99,8 @@ Work in progress as I am actively collecting these.
 - "Monitoring Process Creation via the Kernel (Part II)" https://objective-see.com/blog/blog_0x0A.html
 - "Monitoring Process Creation via the Kernel (Part III)" https://objective-see.com/blog/blog_0x0B.html
 - "Monitoring macOS, Part I: Monitoring Process Execution via MACF" https://www.fortinet.com/blog/threat-research/monitoring-macos--part-i--monitoring-process-execution-via-macf.html
-
+- "Monitoring macOS, Part II: Monitoring File System Events and Dylib Loading via MACF" https://www.fortinet.com/blog/threat-research/monitor-file-system-events-and-dylib-loading-via-macf-on-macos.html
+=-
 
 #### Books
 
