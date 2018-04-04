@@ -77,6 +77,7 @@ Work in progress as I am actively collecting these.
 - "Introduction to macOS Kernel Debugging" http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
 - "Kernel debugging with LLDB and VMWare Fusion" http://ddeville.me/2015/08/kernel-debugging-with-lldb-and-vmware-fusion
 - "Reversing a macOS Kernel Extension" (DSMOS) http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
+- "https://klue.github.io/blog/2017/04/macos_kernel_debugging_vbox/"
 
 #### Other
 
