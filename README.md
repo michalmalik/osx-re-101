@@ -34,7 +34,7 @@ Work in progress as I am actively collecting these.
 - "NASM Hello World for x86 and x86_64 Intel Mac OS X" https://gist.github.com/FiloSottile/7125822
 - "Reverse Engineering the OS: A Practical Guide" https://www.youtube.com/watch?v=uQWH55yIgYU
 
-#### Anti-debugging, infection techniques, viruses, obfuscation and encryption
+#### Malware, Anti-debugging, infection techniques, obfuscation, and encryption
 
 - "Infecting Mach-O" http://nicolascormier.com/documentation/security/Infecting_Mach-O_Files.pdf
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
@@ -42,13 +42,14 @@ Work in progress as I am actively collecting these.
 - "Malware persistence techniques on Mac OS X" https://www.virusbtn.com/pdf/conference/vb2014/VB2014-Wardle.pdf
 - "Running executables on macOS from memory" https://blog.cylance.com/running-executables-on-macos-from-memory
 - "Understanding Apple's Binary Protection in Mac OS X" http://osxbook.com/book/bonus/chapter7/binaryprotection/
+- "Macs get sick too" http://www.irongeek.com/i.php?page=videos/derbycon6/104-macs-get-sick-too-tyler-halfpop-jacob-soo
+- "A Peek Under the Hood of iOS Malware" http://webdiis.unizar.es/~ricardo/files/papers/GR-WMA-16.pdf
+- "Crafting macOS Rootkits" https://www.zdziarski.com/blog/wp-content/uploads/2017/02/Crafting-macOS-Root-Kits.pdf
+- "Revisiting Mac OS X Kernel Rootkits" http://phrack.org/issues/69/7.html#article
+- "Methods of malware persistence on Mac OS X" https://www.virusbulletin.com/uploads/pdf/conference/vb2014/VB2014-Wardle.pdf
+- "Let's Play: Practical OS X Malware Detection & Analysis" https://www.synack.com/wp-content/uploads/2016/03/RSA_OSX_Malware.pdf
 
-#### Crackmes and challenges
-
-- https://reverse.put.as/crackmes/
-- "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
-
-#### Analyzes, research & "hands-on"
+#### Various research & tutorials
 
 - "Cracking Tutorial #1 - "Sandwich" CrackMe" http://reverse.put.as/wp-content/uploads/2012/06/Sandwich_crackme_tut_qwertyoruiop.txt
 - "Solving crackmes with LDPRELOAD" http://radare.today/solving-crackmes-with-ldpreload/
@@ -58,10 +59,7 @@ Work in progress as I am actively collecting these.
 - "Jailbreak iOS 8.1.2 and Analyze Related Exploits" http://proteaswang.blogspot.com/2017/04/jailbreak-ios-812-and-analyze-related.html
 -  "Attacking The XNU Kernel in El Capitan" https://www.blackhat.com/docs/eu-15/materials/eu-15-Todesco-Attacking-The-XNU-Kernal-In-El-Capitain.pdf
 - "Shooting the OSX El Capitan Kernel Like a Sniper" https://speakerdeck.com/flankerhqd/shooting-the-osx-el-capitan-kernel-like-a-sniper
-- "Let's Play: Practical OS X Malware Detection & Analysis" https://www.synack.com/wp-content/uploads/2016/03/RSA_OSX_Malware.pdf
-- "Methods of malware persistence on Mac OS X" https://www.virusbulletin.com/uploads/pdf/conference/vb2014/VB2014-Wardle.pdf
 - "The Italian morons are back! What are they up to this time?" https://reverse.put.as/2016/02/29/the-italian-morons-are-back-what-are-they-up-to-this-time/
-- "Revisiting Mac OS X Kernel Rootkits" http://phrack.org/issues/69/7.html#article
 - "The Journey of a complete OSX privilege escalation with a single vulnerability - Part 1" http://keenlab.tencent.com/en/2016/07/29/The-Journey-of-a-complete-OSX-privilege-escalation-with-a-single-vulnerability-Part-1/
 - "iOS 10 Kernel Heap Revisted" http://gsec.hitb.org/materials/sg2016/D2%20-%20Stefan%20Esser%20-%20iOS%2010%20Kernel%20Heap%20Revisited.pdf
 - "Who needs decrypted kernels anyways?" http://blog.offcellresearch.com/security/apple/ios/kernel/2016/08/23/who-needs-decrypted-kernels-anyways.html
@@ -71,16 +69,29 @@ Work in progress as I am actively collecting these.
 - "The Apple Sandbox: Deeper Into The Quagmire" https://www.youtube.com/watch?v=mG715HcDgO8
 - “A deep-dive into the many flavors of IPC available on OS X.” https://vimeo.com/127859750
 - "Analysis of iOS 9.3.3 Jailbreak & Security Enhancements of iOS 10" http://powerofcommunity.net/poc2016/pangu.pdf
-- "Crafting macOS Rootkits" https://www.zdziarski.com/blog/wp-content/uploads/2017/02/Crafting-macOS-Root-Kits.pdf
 - "Fried Apples: Jailbreak DIY" https://speakerdeck.com/mbazaliy/fried-apples-jailbreak-diy
+- "Reversing a macOS Kernel Extension" (DSMOS) http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
+- "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
+
+#### Kernel extension (KEXT) development
+
+- "KEXT Controls and Notifications" https://developer.apple.com/library/content/documentation/Darwin/Conceptual/NKEConceptual/control/control.html
+- "Network Kernel Extensions Reference" https://developer.apple.com/library/content/documentation/Darwin/Conceptual/NKEConceptual/reference/reference.html#//apple_ref/doc/uid/TP40001858-CH232-BBAGGGED
+- "Working with TrustedBSD in Mac OS X" https://sysdev.me/trusted-bsd-in-osx/
+- "BUILDING AN APPLE OSX KERNEL MODULE WITH CMAKE – C/C" http://www.goodbits.ca/index.php/2017/09/25/building-an-apple-osx-kernel-module-with-cmake-cc/
+- "Debugging macOS Kernel using VirtualBox" https://klue.github.io/blog/2017/04/macos_kernel_debugging_vbox/
 - "Remote Kext Debugging" https://rednaga.io/2017/04/09/remote_kext_debugging/
 - "Introduction to macOS Kernel Debugging" http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
 - "Kernel debugging with LLDB and VMWare Fusion" http://ddeville.me/2015/08/kernel-debugging-with-lldb-and-vmware-fusion
-- "Reversing a macOS Kernel Extension" (DSMOS) http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
-- "https://klue.github.io/blog/2017/04/macos_kernel_debugging_vbox/"
+- "Monitoring Process Creation via the Kernel (Part I)" https://objective-see.com/blog.html#blogEntry9
+- "Monitoring Process Creation via the Kernel (Part II)" https://objective-see.com/blog/blog_0x0A.html
+- "Monitoring Process Creation via the Kernel (Part III)" https://objective-see.com/blog/blog_0x0B.html
+- "Monitoring macOS, Part I: Monitoring Process Execution via MACF" https://www.fortinet.com/blog/threat-research/monitoring-macos--part-i--monitoring-process-execution-via-macf.html
+- "Monitoring macOS, Part II: Monitoring File System Events and Dylib Loading via MACF" https://www.fortinet.com/blog/threat-research/monitor-file-system-events-and-dylib-loading-via-macf-on-macos.html
+- "Monitoring macOS, Part III: Monitoring Network Activities Using Socket Filters" https://www.fortinet.com/blog/threat-research/monitoring-macos--part-iii--monitoring-network-activities-using-.html
+- "A binary whitelisting/blacklisting system for Mac OS X" https://github.com/google/santa
 
 #### Other
-
 - "The Python bites your apple - fuzzing and exploiting OSX Kernel bugs" https://speakerdeck.com/flankerhqd/the-python-bites-your-apple-fuzzing-and-exploiting-osx-kernel-bugs
 - "Artefacts and tricks for Mac OS X" http://sud0man.blogspot.fr/2015/05/artefacts-for-mac-os-x.html?m=1
 - "Collection of forensics artifacs location for Mac OS X and iOS" https://github.com/pstirparo/mac4n6
@@ -90,21 +101,16 @@ Work in progress as I am actively collecting these.
 - "A launchd tutorial" http://launchd.info/
 - https://objective-see.com/index.html
 - "OS X malloc introspection tool" https://github.com/blankwall/MacHeap
-- "A Peek Under the Hood of iOS Malware" http://webdiis.unizar.es/~ricardo/files/papers/GR-WMA-16.pdf
-- "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
-- "Macs get sick too" http://www.irongeek.com/i.php?page=videos/derbycon6/104-macs-get-sick-too-tyler-halfpop-jacob-soo
 - "MacOS Hardening Guide" http://newosxbook.com/files/moxii3/AppendixA.pdf by Jonathan Levin
 - "Checkout4Mac" http://sud0man.blogspot.sk/2016/10/new-version-of-checkout4mac-02.html
 - "OSX kernel fuzzer" https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX
 - "iOS instrumentation without jailbreak" https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/
-- "Monitoring Process Creation via the Kernel (Part I)" https://objective-see.com/blog.html#blogEntry9
-- "Monitoring Process Creation via the Kernel (Part II)" https://objective-see.com/blog/blog_0x0A.html
-- "Monitoring Process Creation via the Kernel (Part III)" https://objective-see.com/blog/blog_0x0B.html
-- "Monitoring macOS, Part I: Monitoring Process Execution via MACF" https://www.fortinet.com/blog/threat-research/monitoring-macos--part-i--monitoring-process-execution-via-macf.html
-- "Monitoring macOS, Part II: Monitoring File System Events and Dylib Loading via MACF" https://www.fortinet.com/blog/threat-research/monitor-file-system-events-and-dylib-loading-via-macf-on-macos.html
-- "Monitoring macOS, Part III: Monitoring Network Activities Using Socket Filters" https://www.fortinet.com/blog/threat-research/monitoring-macos--part-iii--monitoring-network-activities-using-.html
-- "A binary whitelisting/blacklisting system for Mac OS X" https://github.com/google/santa
 - "MacOS monitoring the open source way" https://blogs.dropbox.com/tech/2018/04/4696/
+
+#### Crackmes and challenges
+
+- https://reverse.put.as/crackmes/
+- "Exercises" section in http://beginners.re/Reverse_Engineering_for_Beginners-en.pdf
 
 #### Books
 
