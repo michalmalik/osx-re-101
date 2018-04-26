@@ -103,6 +103,8 @@ Work in progress as I am actively collecting these.
 - "Monitoring macOS, Part I: Monitoring Process Execution via MACF" https://www.fortinet.com/blog/threat-research/monitoring-macos--part-i--monitoring-process-execution-via-macf.html
 - "Monitoring macOS, Part II: Monitoring File System Events and Dylib Loading via MACF" https://www.fortinet.com/blog/threat-research/monitor-file-system-events-and-dylib-loading-via-macf-on-macos.html
 - "Monitoring macOS, Part III: Monitoring Network Activities Using Socket Filters" https://www.fortinet.com/blog/threat-research/monitoring-macos--part-iii--monitoring-network-activities-using-.html
+- "A binary whitelisting/blacklisting system for Mac OS X" https://github.com/google/santa
+- "MacOS monitoring the open source way" https://blogs.dropbox.com/tech/2018/04/4696/
 
 #### Books
 
