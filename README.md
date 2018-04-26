@@ -21,7 +21,7 @@ Work in progress as I am actively collecting these.
 
 #### Basics
 
-- ~~"Universal Binary: The Mach-O file format" http://cocoaintheshell.com/2009/07/universal-binary-mach-o-format/~~
+- "Universal Binary: The Mach-O file format" https://cocoaintheshell.whine.fr/2009/07/universal-binary-mach-o-format/
 - "Basics of the Mach-O file format" https://samhuri.net/posts/2010/01/basics-of-the-mach-o-file-format/
 - "How OS X Executes Applications" http://0xfe.blogspot.de/2006/03/how-os-x-executes-applications.html
 - "Infecting Mach-O object format" https://papers.put.as/papers/macosx/2005/mach-o_infection.ppt
