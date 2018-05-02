@@ -106,6 +106,7 @@ Work in progress as I am actively collecting these.
 - "OSX kernel fuzzer" https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX
 - "iOS instrumentation without jailbreak" https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/
 - "MacOS monitoring the open source way" https://blogs.dropbox.com/tech/2018/04/4696/
+- "Mac OS X El Capitan (10.11) and task_for_pid()" https://attilathedud.me/mac-os-x-el-capitan-10-11-and-task_for_pid/
 
 #### Crackmes and challenges
 
