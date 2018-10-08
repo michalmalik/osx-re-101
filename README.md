@@ -51,6 +51,7 @@ Work in progress as I am actively collecting these.
 
 #### Various research & tutorials
 
+- "Reversing and Keygenning qwertyoruiop's Crackme" https://reverse.put.as/2018/10/06/reversing-and-keygenning-qwertyoruiop-crackme/
 - "Cracking Tutorial #1 - "Sandwich" CrackMe" http://reverse.put.as/wp-content/uploads/2012/06/Sandwich_crackme_tut_qwertyoruiop.txt
 - "Solving crackmes with LDPRELOAD" http://radare.today/solving-crackmes-with-ldpreload/
 - "Analyzing Binaries with Hopper’s Decompiler" http://abad1dea.tumblr.com/post/23487860422/analyzing-binaries-with-hoppers-decompiler
