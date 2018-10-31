@@ -82,7 +82,7 @@ Work in progress as I am actively collecting these.
 - "BUILDING AN APPLE OSX KERNEL MODULE WITH CMAKE – C/C" http://www.goodbits.ca/index.php/2017/09/25/building-an-apple-osx-kernel-module-with-cmake-cc/
 - "Debugging macOS Kernel using VirtualBox" https://klue.github.io/blog/2017/04/macos_kernel_debugging_vbox/
 - "Remote Kext Debugging" https://rednaga.io/2017/04/09/remote_kext_debugging/
-- "Introduction to macOS Kernel Debugging" http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
+- "Introduction to macOS Kernel Debugging" https://lightbulbone.com/posts/2016/10/intro-to-macos-kernel-debugging/
 - "Kernel debugging with LLDB and VMWare Fusion" http://ddeville.me/2015/08/kernel-debugging-with-lldb-and-vmware-fusion
 - "Monitoring Process Creation via the Kernel (Part I)" https://objective-see.com/blog.html#blogEntry9
 - "Monitoring Process Creation via the Kernel (Part II)" https://objective-see.com/blog/blog_0x0A.html
