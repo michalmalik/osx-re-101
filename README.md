@@ -39,7 +39,6 @@ Work in progress as I am actively collecting these.
 - "Infecting Mach-O" http://nicolascormier.com/documentation/security/Infecting_Mach-O_Files.pdf
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
 - "Multi-Platform Viruses Made Easy - A Case Study" http://vxer.org/lib/vjp00.html
-- "Malware persistence techniques on Mac OS X" https://www.virusbtn.com/pdf/conference/vb2014/VB2014-Wardle.pdf
 - "Running executables on macOS from memory" https://blog.cylance.com/running-executables-on-macos-from-memory
 - "Understanding Apple's Binary Protection in Mac OS X" http://osxbook.com/book/bonus/chapter7/binaryprotection/
 - "Macs get sick too" http://www.irongeek.com/i.php?page=videos/derbycon6/104-macs-get-sick-too-tyler-halfpop-jacob-soo
