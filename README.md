@@ -72,6 +72,7 @@ Work in progress as I am actively collecting these.
 - "Fried Apples: Jailbreak DIY" https://speakerdeck.com/mbazaliy/fried-apples-jailbreak-diy
 - "Reversing a macOS Kernel Extension" (DSMOS) http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
 - "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
+- "Leveraging Apple's Game Engine to Detect macOS Threats" https://objectivebythesea.com/v1/talks/OBTS_v1_Malm_Stein.pdf
 
 #### Kernel extension (KEXT) development
 
