@@ -73,6 +73,7 @@ Work in progress as I am actively collecting these.
 - "Reversing a macOS Kernel Extension" (DSMOS) http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html
 - "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
 - "Leveraging Apple's Game Engine to Detect macOS Threats" https://objectivebythesea.com/v1/talks/OBTS_v1_Malm_Stein.pdf
+- "Get Cozy with OpenBSM Auditing" https://objective-see.com/talks/Wardle_ShmooCon2018.pdf
 
 #### Kernel extension (KEXT) development
 
