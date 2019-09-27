@@ -74,6 +74,7 @@ Work in progress as I am actively collecting these.
 - "Demystifying the Secure Enclave Processor" http://mista.nu/research/sep-paper.pdf
 - "Leveraging Apple's Game Engine to Detect macOS Threats" https://objectivebythesea.com/v1/talks/OBTS_v1_Malm_Stein.pdf
 - "Get Cozy with OpenBSM Auditing" https://objective-see.com/talks/Wardle_ShmooCon2018.pdf
+- "Real-time auditing on macOS with OpenBSM" https://meliot.me/2017/07/02/mac-os-real-time-auditing/
 
 #### Kernel extension (KEXT) development
 
