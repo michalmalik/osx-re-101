@@ -5,19 +5,19 @@ Work in progress as I am actively collecting these.
 
 #### Must read
 
-- http://reverse.put.as/
-- http://researchcenter.paloaltonetworks.com/tag/mac-os-x/
-- https://www.synack.com/r-d-projects/os-x-security-research/
-- http://samdmarshall.com/re.html
+- https://reverse.put.as/
+- https://blog.paloaltonetworks.com/tag/mac-os-x/
+- https://www.synack.com/blog/r-d-projects/os-x-security-research/
+- https://pewpewthespells.com/re.html
 - https://github.com/bx/machO-tools
 - https://github.com/kpwn/iOSRE
 
 #### Keep these handy
-- "OSX Mach-O File Format Reference" http://samdmarshall.com/re/Mach-O_File_Format.pdf
-- "OSX ABI" http://samdmarshall.com/re/Mac_OS_X_ABI_Function_Calls.pdf
-- Mach-O structures http://www.opensource.apple.com/source/xnu/xnu-2050.18.24/EXTERNAL_HEADERS/mach-o/loader.h
-- "OSX BSD system calls" http://dyjakan.sigsegv.pl/osx-bsd-syscalls/
-- http://www.opensource.apple.com/source/xnu/xnu-2050.18.24/bsd/kern/syscalls.master
+- "OSX Mach-O File Format Reference" https://pewpewthespells.com/re/Mach-O_File_Format.pdf
+- "OSX ABI" https://pewpewthespells.com/re/Mac_OS_X_ABI_Function_Calls.pdf
+- Mach-O structures https://opensource.apple.com/source/xnu/xnu-2050.18.24/EXTERNAL_HEADERS/mach-o/loader.h
+- "OSX BSD system calls" https://sigsegv.pl/osx-bsd-syscalls/
+- https://opensource.apple.com/source/xnu/xnu-2050.18.24/bsd/kern/syscalls.master
 
 #### Basics
 
