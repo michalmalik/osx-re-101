@@ -40,6 +40,7 @@ Work in progress as I am actively collecting these.
 - "Abusing the Mach-O format" http://cocoaintheshell.com/2009/10/abusing-mach-o
 - "Multi-Platform Viruses Made Easy - A Case Study" http://vxer.org/lib/vjp00.html
 - "Running executables on macOS from memory" https://blog.cylance.com/running-executables-on-macos-from-memory
+- macos_execute_from_memory https://github.com/prsecurity/macos_execute_from_memory/blob/master/main.c
 - "Understanding Apple's Binary Protection in Mac OS X" http://osxbook.com/book/bonus/chapter7/binaryprotection/
 - "Macs get sick too" http://www.irongeek.com/i.php?page=videos/derbycon6/104-macs-get-sick-too-tyler-halfpop-jacob-soo
 - "A Peek Under the Hood of iOS Malware" http://webdiis.unizar.es/~ricardo/files/papers/GR-WMA-16.pdf
